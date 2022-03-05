@@ -18,4 +18,4 @@
 * I. Enter the lamp id in "yandex_lamp_id" // go to https://oauth.yandex.ru and rigister & select your device; copy ID and paste here 
 * II. Enter the OAuth-code in "yandex_oauth" // go to https://oauth.yandex.ru/authorize?response_type=token&client_id={yandex_lamp_id} (without {})
 
-###P.S. This script is convenient to use in the converted to .exe format 
+### P.S. This script is convenient to use in the converted to .exe format 
