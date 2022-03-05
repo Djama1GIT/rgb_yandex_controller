@@ -18,4 +18,10 @@
 * I. Enter the lamp id in "yandex_lamp_id" // go to https://oauth.yandex.ru and rigister & select your device; copy ID and paste here 
 * II. Enter the OAuth-code in "yandex_oauth" // go to https://oauth.yandex.ru/authorize?response_type=token&client_id={yandex_lamp_id} (without {})
 
+### Main functionality:
+* I. Ctrl + 7 - Turn Off the lamp
+* II. Ctrl + 8 - Turn On the lamp
+* III. Ctrl + 9 - Turn on a first commonly used color // configured in the main.py (commonly_first variable)
+* IV. Ctrl + 6 - Turn on a second commonly used color // configured in the main.py (commonly_second variable)
+
 ### P.S. This script is convenient to use in the converted to .exe format 
