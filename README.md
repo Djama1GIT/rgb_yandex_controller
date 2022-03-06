@@ -23,5 +23,6 @@
 * II. Ctrl + 8 - Turn On the lamp
 * III. Ctrl + 9 - Turn on a first commonly used color // configured in the main.py (commonly_first variable)
 * IV. Ctrl + 6 - Turn on a second commonly used color // configured in the main.py (commonly_second variable)
+* V. Ctrl + 5 - Selecting a color using the color picker and turning it on
 
 ### P.S. This script is convenient to use in the converted to .exe format 
