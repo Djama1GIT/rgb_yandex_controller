@@ -1,4 +1,5 @@
 # RGB Yandex Controller #
+<img src="yandex-rgb" width="400"/>
 ### libs:
 * json
 * keyboard
